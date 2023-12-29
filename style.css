@@ -316,6 +316,9 @@ footer {
   margin-bottom: 0.7rem;
   color: #fff;
 }
+.nav-item {
+  flex: 1 1 150px;
+}
 .nav-item ul {
   list-style-type: none;
   margin: 0;
