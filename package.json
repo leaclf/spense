@@ -1,0 +1,16 @@
+{
+  "name": "spense",
+  "version": "1.0.0",
+  "description": "Codewell's aim is to provide you with real-world design templates that you can use to practice your HTML and CSS projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cssnano": "^6.0.2",
+    "postcss": "^8.4.32"
+  }
+}
